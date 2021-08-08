@@ -1,6 +1,6 @@
 - @ferro96
 - :cat: :video_game: :soccer: :computer: :iphone:
-- react-native, RoR.
+- js, Reactjs, react-native, RoR.
 
 <!---
 ferro96/ferro96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
